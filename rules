@@ -1,0 +1,3 @@
+- All 2D point-set should be Nx2 shape
+- All 3D point-set should be Nx3 shape
+- All 4D point-set should be Nx4 shape
